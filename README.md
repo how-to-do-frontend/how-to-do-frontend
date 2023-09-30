@@ -8,3 +8,15 @@
 - 📫 how to reach me: discord - recorderinthesandybridge
 - 😄 pronouns: he/they
 - ⚡ fun fact: i am bisexual
+
+skills n shit
+python, js, vue, mysql
+
+frameworks
+fastapi, flask
+
+stuff ive done
+gdps backend and frontend, osu backend and frontend
+
+github stats ig
+![how-to-do-frontend's GitHub stats](https://github-readme-stats.vercel.app/api?username=how-to-do-frontend&show_icons=true&theme=transparent)
