@@ -10,7 +10,8 @@
 - ⚡ fun fact: i am bisexual
 
 skills n shit
-python, js, vue, mysql
+python
+thats it
 
 frameworks
 fastapi, flask
